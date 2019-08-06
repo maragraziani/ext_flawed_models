@@ -1,0 +1,3 @@
+[submodule "intentionally_flawed_models"]
+	path = intentionally_flawed_models
+	url = https://github.com/maragraziani/intentionally_flawed_models.git
